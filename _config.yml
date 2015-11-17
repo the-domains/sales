@@ -1,0 +1,23 @@
+name: sales
+favicon: null
+layout_spectrum: 0.8881540009751916
+typography_spectrum: 0.875314203556627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.04292942606844008
+  lightness: 0.4361727174837142
+  saturation: 0.17504512588493526
+  rhythmicContrast: 0.3009436493739486
+purpose: []
